@@ -1,0 +1,24 @@
+{
+  "name": "EvnFlo \u2014 Projects",
+  "short_name": "EvnFlo",
+  "description": "EvnFlo project planning with boards, tasks, subtasks, and an automatic calendar.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fffaf6",
+  "theme_color": "#e96a2c",
+  "icons": [
+    {
+      "src": "/evnflo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/evnflo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
